@@ -1,1 +1,2 @@
 # awe2025-Ghost-Seek
+Ghost & Seek is an augmented reality game for Spectacles that transforms everyday public spaces into immersive cognitive playgrounds. Designed to support focus and attention, the game offers interactive challenges and shared experiences that encourage players to practice attention control while strengthening social connections. By blending movement, play, and AR technology, Ghost & Seek creates an engaging environment for individuals with ADHD and those navigating cognitive recovery.
